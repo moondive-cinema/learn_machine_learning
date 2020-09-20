@@ -1,2 +1,2 @@
 # machine_learning
-Hands-on ML learning projects 
+Personal hands-on ML learning training projects 
